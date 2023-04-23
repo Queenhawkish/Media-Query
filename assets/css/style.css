@@ -1,0 +1,23 @@
+body {
+    display: block;
+}
+@media (orientation: portrait) {
+    body {
+        background-image: url(/assets/img/Gear\ 2nd.webp);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-attachment: fixed;
+    }
+}
+
+@media (orientation:landscape) {
+    body {
+        background-image: url(/assets/img/Boundman.webp);
+        background-size: cover;
+        background-repeat: no-repeat;
+        text-align: center;
+        background-position-x: center;
+        background-attachment: fixed;
+    }
+}
