@@ -3,7 +3,7 @@ body {
 }
 @media (orientation: portrait) {
     body {
-        background-image: url(/assets/img/Gear\ 2nd.webp);
+        background-image: url(../img/Gear\ 2nd.webp);
         background-size: cover;
         background-repeat: no-repeat;
         background-position-x: center;
@@ -13,7 +13,7 @@ body {
 
 @media (orientation:landscape) {
     body {
-        background-image: url(/assets/img/Boundman.webp);
+        background-image: url(../img/Boundman.webp);
         background-size: cover;
         background-repeat: no-repeat;
         text-align: center;
